@@ -1,2 +1,4 @@
+![Me!](thumbnail.png)
 
-*Check out my [personal website](http://robertpozun.com)*
+
+*Also: Check out [robertpozun.com](http://robertpozun.com)*
