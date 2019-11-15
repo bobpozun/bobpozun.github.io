@@ -1,11 +1,12 @@
 **_Software Test Engineer, PayPal (Acquired via Swift Capital - Sept 2017)_**
 **_(June 2016 – Current)_**  
 
-- Embedded test engineer on an agile RESTful web services team responsible for testing numerous web services on a weekly release cycle
+- Test engineer on a REST web services team responsible for testing numerous web services on a weekly release cycle
 - Re-engineered C# test solutions to be data driven eliminating thousands of lines of code, drastically improving maintainability, and filling numerous gaps in requirement coverage
-- Implemented Jenkins on an AWS instance to run all web service tests nightly and on demand. Later implemented similar configurations on Teamcity
-- Assist management in hiring, onboarding and mentoring other test engineers (cross-team)
-- Assisted DevOps team by developing Authorization and Routing Sparkle Formation test solutions in AWS using Boto3 and Python for a full network cutover.
+- Implemented Jenkins (later Teamcity) to run all web service tests nightly and on-demand
+- Assisted in hiring, onboarding and mentoring other test engineers (cross-team)
+- Developed Auth and Routing test solutions for sparkle formation using Boto3 and Python for a full network cutover to AWS
+- Developed Crypto API test solution using Jest for regression/functional and Artillery and Datadog for load testing
 
 **_Software Test Engineer, PeopleLinx (Sept 2015 – May 2016)_**
 
@@ -23,10 +24,10 @@
 
 **_Sr. Quality Assurance Analyst/Team Lead,_ Pointroll (Sept 2013- June 2015)**
 
-- Developed and integrated with Teamcity:
-  -  Python End-to-end production ETL automated framework with email alerts
-  -  Python test suite to validate ad serving, asset serving and ad functionality using Selenium
-  -  Python test suite to validate all ad-serving activities including ad delivery rules, cookie validation, and server to server testing to reduce testing time from around 1 day to 30 minutes
+- Developed in Python and integrated with Teamcity:
+  - End-to-end production ETL automated framework with email alerts
+  - Suite to validate ad serving, asset serving and ad functionality using Selenium
+  - Suite to validate all ad-serving activities including ad delivery rules, cookie validation, and server to server testing to reduce testing time from around 1 day to 30 minutes
 - Mentored various team members in Python, SiestaJS (offshore), Selenium and Postman
 - Implemented training sessions, set goals and performed 1:1 meetings
 - Lead bi-weekly QA organization meetings and daily standups to review release testing
@@ -58,11 +59,10 @@
   - Github, Bitbucket, Trello, Version One, Rally, JIRA, Browserstack, Sauce Labs, Postman, Mandrill, Jenkins, Teamcity, Bamboo, Anthill Pro, Octopus Deploy, Fiddler, Charles ,Firebug
 
 - Technologies:
-  - Python, C# / NUnit, Javascript / NodeJS / Mocha / Nightwatch, Selenium Webdriver, MSSQL, MySQL, Powershell, Apache, IIS, Azure, Google Compute Engine, Google Cloud SQL, Google App Engine, AWS, Intercom, Google Analytics, AirTable, Salesforce / Workbench
+  - Python, C#, NUnit, Javascript, NodeJS, Mocha, Jest, Nightwatch, Selenium Webdriver, MSSQL, MySQL, Powershell, Apache, IIS, Azure, Google Compute Engine, Google Cloud SQL, Google App Engine, AWS, Intercom, Google Analytics, AirTable, Salesforce / Workbench, Datadog, Grafana, Postgres
 
 **Education**
 
-_West Chester University of, PA (AACSB Accredited) -_ _B.S. Business Management (Aug 2009)_  
-
+_B.S. Business Management (West Chester University of PA,  2009)_  
 
 ### Also: Check out [robertpozun.com](http://robertpozun.com)
