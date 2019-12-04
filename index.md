@@ -15,14 +15,14 @@
 - Participated in rotation to perform releases to Google Dev Stack
 - Owned Dev/Client Support relations and implemented a tracking system using AirTable
 
-**_Test Engineering Consultant (Business Voice), Comcast (June 2015 – Sept 2015)_**
+**_Software Test Engineer (Contract), Comcast (June 2015 – Sept 2015)_**
 
 - Created RESTful API automation testing framework using Python and RobotFramework
 - Implemented Jenkins smoke test and full regression configurations for all environments
 - Configured CI workflow using AntHill Pro to gate deployments to QA nodes
 - Wrote Nagios monitor scripts to assist IT monitoring of web services
 
-**_Sr. Quality Assurance Analyst/Team Lead,_ Pointroll (Sept 2013- June 2015)**
+**_Sr. Infrastructure Test Lead,_ Pointroll (Sept 2013- June 2015)**
 
 - Developed in Python and integrated with Teamcity:
   - End-to-end production ETL automated framework with email alerts
@@ -48,7 +48,7 @@
 - Qualified and deployed environment and database changes as well as live binary device updates to all environments
 - Developed Python framework to automate RESTful web service testing
 
-**_Systems Analyst (Co-Op),_ Siemens Medical Solutions (May 2006 - Sept 2008)**
+**_Systems Analyst Co-Op,_ Siemens Medical Solutions (May 2006 - Sept 2008)**
 
 - Reviewed functional requirements and created manual and automated test plans for the Soarian Clinicals HIS System
 - Interacted with developers and test managers locally and offshore regarding software revision, defects and test plan management
