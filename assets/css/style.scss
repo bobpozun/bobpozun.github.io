@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+@font-face {
+    font-family: "bebes-kai";
+    src: url("/assets/fonts/eot/BebasKai.eot");
+    src: url("/assets/fonts/woff-cffbased/BebasKai.woff") format("woff"),
+    url("/assets/fonts/otf/BebasKai.otf") format("opentype")
+    }
+a,
+section #title .credits,
+section #title h1,
+section #title p
+{
+    font-family: bebes-kai, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+};
+
+a {
+    color: #eeb14f;
+}
+
+.image {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
