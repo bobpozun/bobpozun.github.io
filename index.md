@@ -71,14 +71,15 @@
 
 ## **Technical Experience**
 
-- Tools Used:
-  - Github, Bitbucket, Trello, Version One, Rally, JIRA, Browserstack, SauceLabs, Postman, Jenkins, Teamcity, Bamboo, Anthill Pro, Octopus Deploy, Fiddler, Charles, Firebug
+Tools Used:
 
-- Technologies Used:
-  - Python, C#, NUnit, Javascript, NodeJS, Mocha, Jest, Nightwatch, Selenium Webdriver, MSSQL, MySQL, Powershell, Apache, IIS, Azure, Google Compute Engine, Google Cloud SQL, Google App Engine, Inspec, Chef, AWS, Cloud / Sparkle Formation, Google Analytics, AirTable, Salesforce / Workbench, Datadog, Grafana, Postgres
+- Github, Bitbucket, Trello, Version One, Rally, JIRA, Browserstack, SauceLabs, Postman, Jenkins, Teamcity, Bamboo, Anthill Pro, Octopus Deploy, Fiddler, Charles, Firebug
+
+Technologies Used:
+
+- Python, C#, NUnit, Javascript, NodeJS, Mocha, Jest, Nightwatch, Selenium Webdriver, MSSQL, MySQL, Powershell, Apache, IIS, Azure, Google Compute Engine, Google Cloud SQL, Google App Engine, Inspec, Chef, AWS, Cloud / Sparkle Formation, Google Analytics, AirTable, Salesforce / Workbench, Datadog, Grafana, Postgres
 
 ## **Education**
 
-_B.S. Business Management (West Chester University of PA,  2009)_  
-
-### Also: Check out [robertpozun.com](http://robertpozun.com)
+Software Engineering MasterTrack Certificate (Arizona State University, Currently Enrolled)  
+B.S. Business Management (West Chester University of PA, 2009)
