@@ -10,4 +10,4 @@ Setup: `bundle install`
 Run local: `bundle exec jekyll serve`  
 Navigate to: http://localhost:4000  
 
-Bundle issue?? (can't find gem bundle): `gem update --system`  
+Bundle issue?? (can't find gem bundle): `gem update --system`
