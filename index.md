@@ -81,5 +81,4 @@ Technologies Used:
 
 ## **Education**
 
-Software Engineering MasterTrack Certificate (Arizona State University, Currently Enrolled)  
 B.S. Business Management (West Chester University of PA, 2009)
