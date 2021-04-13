@@ -4,7 +4,7 @@
 
 **_Sr. Software Test Engineer, (June 2016 – Current)_**
 
-- Test engineer on a RESTful web services team responsible for testing multiple web services on a weekly release cycle
+- Test engineer responsible for testing multiple web services on a weekly release cycle
 - Re-engineered C# test automation framework to be data driven eliminating thousands of lines of code, drastically improving maintainability, and filling numerous gaps in requirement coverage
 - Implemented Jenkins (later Teamcity) to run all web service tests nightly and on-demand across all environments
 - Assisted in hiring, onboarding and mentoring other test engineers (cross-team)
@@ -25,7 +25,7 @@
 
 **_Sr. Software Test Engineer (Contract), (June 2015 – Sept 2015)_**
 
-- Created RESTful API test automation framework using Python and RobotFramework
+- Created a web service test automation framework using Python and RobotFramework
 - Implemented Jenkins smoke test and full regression configurations for all environments
 - Configured CI workflow using AntHill Pro to gate deployments to QA nodes
 - Wrote Nagios monitor scripts to assist IT monitoring of web services
