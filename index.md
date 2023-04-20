@@ -2,7 +2,7 @@
 
 ### **PayPal**
 
-**_Sr. Software Test Engineer, (June 2016 – Current)_**
+**_Sr. Software Test Engineer, (June 2016 – June 2022)_**
 
 - Test engineer responsible for testing multiple web services on a weekly release cycle
 - Re-engineered C# test automation framework to be data driven eliminating thousands of lines of code, drastically improving maintainability, and filling numerous gaps in requirement coverage
