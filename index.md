@@ -1,10 +1,22 @@
 ## **Work Experience**
 
+### **Croissant**
+
+**_Lead Quality Engineer - Founding Member, (June 2022 – Present)_**
+
+- Sole member responsible for testing web and mobile applications, retailer website integrations, a chrome extension and various other components
+- Developed framework using Typescript, Playwright and Applitools for web automation
+- Developed framework using Waldo for mobile automation
+- Developed live retailer site monitors using Typescript, Playwright + Lambdas
+- Developed a number of Github Actions workflows and AWS CDK stacks for various APIs to aid testing and for live site uptime monitoring
+- Negotiated contracts for all third party tooling (Applitools, Waldo, etc.)
+- Actively contributed to project management improvement initiatives, ultimately leading the transition from JIRA to single crossfunctional team in Linear. Developed best practices and assisted the entire company in the transtion and onboarding. 
+
 ### **PayPal**
 
 **_Sr. Software Test Engineer, (June 2016 – June 2022)_**
 
-- Test engineer responsible for testing multiple web services on a weekly release cycle
+- Rsponsible for testing many web services on a weekly release cycle
 - Re-engineered C# test automation framework to be data driven eliminating thousands of lines of code, drastically improving maintainability, and filling numerous gaps in requirement coverage
 - Implemented Jenkins (later Teamcity) to run all web service tests nightly and on-demand across all environments
 - Assisted in hiring, onboarding and mentoring other test engineers (cross-team)
