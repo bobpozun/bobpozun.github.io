@@ -1,96 +1,85 @@
 ## **Work Experience**
 
-### **Croissant**
+### **Croissant**  
+**_Lead Quality Engineer – Founding Member (June 2022 – Present)_**  
 
-**_Lead Quality Engineer - Founding Member, (June 2022 – Present)_**
+- Solely responsible for testing web and mobile applications, retailer website integrations, a Chrome extension, and various other components.  
+- Designed and implemented a web automation framework using TypeScript, Playwright, and Applitools.  
+- Developed a mobile automation framework using Waldo.  
+- Built live retailer site monitoring solutions leveraging TypeScript, Playwright, and AWS Lambda.  
+- Created multiple GitHub Actions workflows, AWS CDK stacks, and a Retool app to support API testing and real-time site uptime monitoring.  
+- Negotiated contracts for third-party testing tools, including Applitools and Waldo.  
+- Led project management improvements, transitioning the company from JIRA to Linear for streamlined cross-functional collaboration. Developed best practices and provided company-wide onboarding and training.  
+- Recruited, trained, and supervised multiple interns for both summer and ongoing programs.  
 
-- Sole member responsible for testing web and mobile applications, retailer website integrations, a chrome extension and various other components
-- Developed framework using Typescript, Playwright and Applitools for web automation
-- Developed framework using Waldo for mobile automation
-- Developed live retailer site monitors using Typescript, Playwright + Lambdas
-- Developed a number of Github Actions workflows, AWS CDK stacks and a Retool App for various APIs to aid testing and for live site uptime monitoring
-- Negotiated contracts for all third party tooling (Applitools, Waldo, etc.)
-- Actively contributed to project management improvement initiatives, ultimately leading the transition from JIRA to single crossfunctional team in Linear. Developed best practices and assisted the entire company in the transtion and onboarding. 
+### **PayPal**  
+**_Senior Software Test Engineer (June 2016 – June 2022)_**  
 
-### **PayPal**
+- Led testing efforts for numerous web services in a fast-paced, weekly release cycle.  
+- Re-engineered a C# test automation framework, reducing thousands of lines of code, improving maintainability, and increasing requirement coverage.  
+- Integrated Jenkins (later TeamCity) for automated nightly and on-demand testing across all environments.  
+- Played a key role in hiring, onboarding, and mentoring test engineers across teams.  
+- Developed a Crypto API testing solution using Jest for regression/functional testing and Artillery with Datadog for load testing.  
+- Built authentication and routing test solutions for Sparkle Formation using Boto3 and Python, enabling a full network cutover to AWS.  
+- Created a server hardening test suite using InSpec.  
 
-**_Sr. Software Test Engineer, (June 2016 – June 2022)_**
+### **PeopleLinx**  
+**_Senior Software Test Engineer (Sept 2015 – May 2016)_**  
 
-- Rsponsible for testing many web services on a weekly release cycle
-- Re-engineered C# test automation framework to be data driven eliminating thousands of lines of code, drastically improving maintainability, and filling numerous gaps in requirement coverage
-- Implemented Jenkins (later Teamcity) to run all web service tests nightly and on-demand across all environments
-- Assisted in hiring, onboarding and mentoring other test engineers (cross-team)
-- Built Crypto API test solution using Jest for regression/functional and Artillery and Datadog for load testing
-- Built Auth and Routing test solutions for sparkle formation using Boto3 and Python for a full network cutover to AWS
-- Built Server Hardening test solution using Inspec
+- Developed and maintained an automated testing framework using Jenkins, Python, Selenium WebDriver, and BrowserStack.  
+- Verified reporting data and managed client data configurations in Google Cloud SQL.  
+- Participated in deployment rotations for Google Dev Stack releases.  
+- Led Dev/Client Support relations and implemented a tracking system using AirTable.  
 
-### **Peoplelinx**
+### **Comcast** *(Contract Role)*  
+**_Senior Software Test Engineer (June 2015 – Sept 2015)_**  
 
-**_Sr. Software Test Engineer, (Sept 2015 – May 2016)_**
+- Designed and built a web service test automation framework using Python and RobotFramework.  
+- Configured Jenkins for automated smoke testing and full regression testing across all environments.  
+- Streamlined CI/CD workflows using AntHill Pro to manage deployment gating for QA nodes.  
+- Developed Nagios monitoring scripts to enhance IT oversight of web services.  
 
-- Built and maintained test automation framework and infrastructure using Jenkins, Python, Selenium Webdriver, and Browserstack
-- Verified reporting data and maintained client data configurations in Google Cloud SQL
-- Participated in rotation to perform releases to Google Dev Stack
-- Owned Dev/Client Support relations and implemented a tracking system using AirTable
+### **Pointroll**  
+**_Senior Infrastructure Test Lead (Sept 2013 – June 2015)_**  
 
-### **Comcast**
+- Developed a Python-based test automation framework integrated with TeamCity, including:  
+  - An end-to-end production ETL automation suite with email alerts.  
+  - Automated validation for ad-serving and asset-serving functionality using Selenium.  
+  - A comprehensive ad-serving validation suite, reducing test execution time from a full day to just 30 minutes.  
+- Mentored team members in Python, SiestaJS (offshore), Selenium WebDriver, and Postman.  
+- Led training sessions, set team goals, and conducted one-on-one coaching.  
+- Organized and facilitated biweekly QA meetings and daily standups to review release testing progress.  
 
-**_Sr. Software Test Engineer (Contract), (June 2015 – Sept 2015)_**
+**_Software QA Analyst (July 2011 – Sept 2013)_**  
 
-- Created a web service test automation framework using Python and RobotFramework
-- Implemented Jenkins smoke test and full regression configurations for all environments
-- Configured CI workflow using AntHill Pro to gate deployments to QA nodes
-- Wrote Nagios monitor scripts to assist IT monitoring of web services
+- Managed all test and release lifecycle operations as an agile team member.  
+- Participated in product design discussions to ensure effective implementation of features for legacy ad creation and ad-serving applications.  
+- Developed and integrated multiple automation frameworks into TeamCity, including:  
+  - A Web UI test automation framework using NodeJS, Selenium, and Mocha (later Nightwatch.js).  
+  - A Reporting API automation framework using Python.  
+  - A framework for MRC ad Viewability certification testing using Python and Selenium WebDriver.  
 
-### **Pointroll**
+### **Rovi (DivXTV)**  
+**_Software QA Analyst (Nov 2009 – July 2011)_**  
 
-**_Sr. Infrastructure Test Lead, (Sept 2013- June 2015)_**
+- Established the test strategy from the ground up for the DivXTV release in collaboration with LG Electronics.  
+- Worked with product teams and content partners to qualify and deploy accepted video content to Amazon RDS for live production support.  
+- Managed environment and database deployments, including live binary updates across all platforms.  
+- Developed a Python framework to automate RESTful web service testing.  
 
-- Developed test automation framework in Python and integrated with Teamcity including:
-  - End-to-end production ETL automation suite with email alerts
-  - Suite to validate ad serving, asset serving and ad functionality using Selenium
-  - Suite to validate all ad-serving activities including ad delivery rules, cookie validation, and server to server testing to reduce testing time from around 1 day to 30 minutes
-- Mentored various team members in learning relevant skills using Python, SiestaJS (offshore), Selenium Webdriver and Postman
-- Implemented training sessions, set goals and performed 1:1 meetings
-- Lead bi-weekly QA organization meetings and daily standups to review release testing
+### **Siemens Medical Solutions** *(Co-op Role)*  
+**_Systems Analyst Co-op (May 2006 – Sept 2008)_**  
 
-### **Pointroll**
+- Reviewed functional requirements and designed manual and automated test plans for the Soarian Clinicals HIS system.  
+- Collaborated with developers and test managers locally and offshore to track defects, software revisions, and test plan execution.  
 
-**_Software QA Analyst, (July 2011-Sept 2013)_**
+## **Technical Experience**  
 
-- Agile team member responsible for all test and release lifecycle operations
-- Participated in product design and development discussions to ensure feature implementation for legacy ad creation and ad serving applications
-- Presented the business value for, developed and integrated into Teamcity:
-  - Web UI test automation framework using NodeJS/Selenium/Mocha (later with Nightwatch.js)
-  - Reporting API automation framework using Python
-  - Automation framework to satisfy MRC ad Viewability certification requirements using Python and Selenium Webdriver
+### **Tools**  
+GitHub, Bitbucket, Trello, VersionOne, Rally, JIRA, BrowserStack, SauceLabs, Postman, Jenkins, TeamCity, Bamboo, Anthill Pro, Octopus Deploy, Fiddler, Charles, Firebug  
 
-### **Rovi**
+### **Technologies**  
+Python, C#, NUnit, JavaScript, NodeJS, Mocha, Jest, Nightwatch, Selenium WebDriver, MSSQL, MySQL, PostgreSQL, PowerShell, Apache, IIS, Azure, Google Cloud (Compute Engine, Cloud SQL, App Engine), AWS (CDK, Lambda), Datadog, Grafana, InSpec, Chef, Sparkle Formation, Google Analytics, AirTable, Salesforce/Workbench  
 
-**_Software QA Analyst, DivXTV (Nov 2009 – July 2011)_**
-
-- Implemented test strategy from the ground up for DivXTV release with LG Electronics
-- Collaborated with product team and content partners to qualify and deploy accepted video content to live Amazon RDS as part of production support and enhancement efforts
-- Qualified and deployed environment and database changes as well as live binary device updates to all environments
-- Developed Python framework to automate RESTful web service testing
-
-### **Siemens Medical Solutions**
-
-**_Systems Analyst Co-Op, (May 2006 - Sept 2008)_**
-
-- Reviewed functional requirements and created manual and automated test plans for the Soarian Clinicals HIS System
-- Interacted with developers and test managers locally and offshore regarding software revision, defects and test plan management
-
-## **Technical Experience**
-
-Tools Used:
-
-- Github, Bitbucket, Trello, Version One, Rally, JIRA, Browserstack, SauceLabs, Postman, Jenkins, Teamcity, Bamboo, Anthill Pro, Octopus Deploy, Fiddler, Charles, Firebug
-
-Technologies Used:
-
-- Python, C#, NUnit, Javascript, NodeJS, Mocha, Jest, Nightwatch, Selenium Webdriver, MSSQL, MySQL, Powershell, Apache, IIS, Azure, Google Compute Engine, Google Cloud SQL, Google App Engine, Inspec, Chef, AWS, Cloud / Sparkle Formation, Google Analytics, AirTable, Salesforce / Workbench, Datadog, Grafana, Postgres
-
-## **Education**
-
-B.S. Business Management (West Chester University of PA, 2009)
+## **Education**  
+**B.S. Business Management** – *West Chester University of Pennsylvania (2009)*  
