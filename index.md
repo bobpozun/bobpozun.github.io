@@ -7,7 +7,7 @@
 - Designed and implemented a web automation framework using TypeScript, Playwright, and Applitools.  
 - Developed a mobile automation framework using Waldo.  
 - Built live retailer site monitoring solutions leveraging TypeScript, Playwright, and AWS Lambda.  
-- Created multiple GitHub Actions workflows, AWS CDK stacks, and a Retool app to support API testing and real-time site uptime monitoring.  
+- Managed QA GitHub Actions workflows, AWS CDK stacks, and a Retool app to support API testing and real-time site uptime monitoring.  
 - Negotiated contracts for third-party testing tools, including Applitools and Waldo.  
 - Led project management improvements, transitioning the company from JIRA to Linear for streamlined cross-functional collaboration. Developed best practices and provided company-wide onboarding and training.  
 - Recruited, trained, and supervised multiple interns for both summer and ongoing programs.  
