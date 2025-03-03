@@ -19,7 +19,7 @@
 - Re-engineered a C# test automation framework, reducing thousands of lines of code, improving maintainability, and increasing requirement coverage.  
 - Integrated Jenkins (later TeamCity) for automated nightly and on-demand testing across all environments.  
 - Played a key role in hiring, onboarding, and mentoring test engineers across teams.  
-- Developed a Crypto API testing solution using Jest for regression/functional testing and Artillery with Datadog for load testing.  
+- Developed a cryptography API testing solution using Jest for regression/functional testing and Artillery with Datadog for load testing.  
 - Built authentication and routing test solutions for Sparkle Formation using Boto3 and Python, enabling a full network cutover to AWS.  
 - Created a server hardening test suite using InSpec.  
 
