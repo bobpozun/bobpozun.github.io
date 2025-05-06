@@ -3,14 +3,16 @@
 ### **Croissant**  
 **_Lead Quality Engineer – Founding Member (June 2022 – Present)_**  
 
-- Solely responsible for testing web and mobile applications, retailer website integrations, a Chrome extension, and various other components.  
-- Designed and implemented a web automation framework using TypeScript, Playwright, and Applitools.  
-- Developed a mobile automation framework using Waldo.  
-- Built live retailer site monitoring solutions leveraging TypeScript, Playwright, and AWS Lambda.  
-- Managed QA GitHub Actions workflows, AWS CDK stacks, and a Retool app to support API testing and real-time site uptime monitoring.  
-- Negotiated contracts for third-party testing tools, including Applitools and Waldo.  
-- Led project management improvements, transitioning the company from JIRA to Linear for streamlined cross-functional collaboration. Developed best practices and provided company-wide onboarding and training.  
-- Recruited, trained, and supervised multiple interns for both summer and ongoing programs.  
+- Solely responsible for testing web and mobile applications, retailer website integrations, a Chrome extension, and various other components.
+- Designed and implemented a web automation framework using TypeScript, Playwright, and Applitools.
+- Migrated from VSCode to Windsurf, leading a full refactor of Playwright test suites across the web and Chrome extension frameworks for enhanced modularity and agentic orchestration.
+- Developed a mobile automation framework using Waldo.
+- Built live retailer site monitoring solutions leveraging TypeScript, Playwright, and AWS Lambda.
+- Conducted a deep dive into company-wide adoption of agentic AI tools; evaluated functionality and pricing across Cline, Cursor, Windsurf, GitHub Copilot, 16x, Repomix, and proprietary libraries to inform cross-team workflows and procurement decisions.
+- Managed QA GitHub Actions workflows, AWS CDK stacks, and a Retool app to support API testing and real-time site uptime monitoring.
+- Negotiated contracts for third-party testing tools, including Applitools and Waldo.
+- Led project management improvements, transitioning the company from JIRA to Linear for streamlined cross-functional collaboration. Developed best practices and provided company-wide onboarding and training.
+- Recruited, trained, and supervised multiple interns for both summer and ongoing programs.
 
 ### **PayPal**  
 **_Senior Software Test Engineer (June 2016 – June 2022)_**  
@@ -76,10 +78,10 @@
 ## **Technical Experience**  
 
 ### **Tools**  
-GitHub, Bitbucket, Trello, VersionOne, Rally, JIRA, BrowserStack, SauceLabs, Postman, Jenkins, TeamCity, Bamboo, Anthill Pro, Octopus Deploy, Fiddler, Charles, Firebug  
+GitHub, Bitbucket, Linear, Trello, VersionOne, Rally, JIRA, Linear, BrowserStack, SauceLabs, Postman, Jenkins, TeamCity, Bamboo, Anthill Pro, Octopus Deploy, Fiddler, Charles, Firebug, Applitools, Retool, Waldo, PerfAgents, Windsurf, Cline, Cursor, GitHub Copilot, 16x, Repomix  
 
 ### **Technologies**  
-Python, C#, NUnit, JavaScript, NodeJS, Mocha, Jest, Nightwatch, Selenium WebDriver, MSSQL, MySQL, PostgreSQL, PowerShell, Apache, IIS, Azure, Google Cloud (Compute Engine, Cloud SQL, App Engine), AWS (CDK, Lambda), Datadog, Grafana, InSpec, Chef, Sparkle Formation, Google Analytics, AirTable, Salesforce/Workbench  
+Python, TypeScript, JavaScript, NodeJS, Mocha, Jest, Nightwatch, Playwright, Selenium WebDriver, C#, NUnit, MSSQL, MySQL, PostgreSQL, PowerShell, AWS (CDK, Lambda), Azure, Google Cloud (Compute Engine, Cloud SQL, App Engine), Datadog, Grafana, InSpec, Chef, Sparkle Formation, Google Analytics, AirTable, Salesforce/Workbench
 
 ## **Education**  
 **B.S. Business Management** – *West Chester University of Pennsylvania (2009)*  
