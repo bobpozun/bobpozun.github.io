@@ -1,3 +1,7 @@
+## **Summary**
+Lead QA Engineer with almost 2 decades of experience leading end-to-end quality efforts across web, mobile, and API platforms. Skilled in building scalable automation frameworks from the ground up, managing CI/CD pipelines, and overseeing efficient, reliable release processes. Adept at collaborating across engineering and product teams, driving improvements in test strategy, infrastructure, and tooling. Experienced in mentoring engineers and supporting quality across fast-moving development cycles.
+
+
 ## **Work Experience**
 
 ### **Croissant**  
@@ -85,3 +89,4 @@ Python, TypeScript, JavaScript, NodeJS, Mocha, Jest, Nightwatch, Playwright, Sel
 
 ## **Education**  
 **B.S. Business Management** – *West Chester University of Pennsylvania (2009)*  
+
