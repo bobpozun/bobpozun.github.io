@@ -1,22 +1,22 @@
-## **Summary**
-Lead QA Engineer with almost 2 decades of experience leading end-to-end quality efforts across web, mobile, and API platforms. Skilled in building scalable automation frameworks from the ground up, managing CI/CD pipelines, and overseeing efficient, reliable release processes. Adept at collaborating across engineering and product teams, driving improvements in test strategy, infrastructure, and tooling. Experienced in mentoring engineers and supporting quality across fast-moving development cycles.
-
+## Summary  
+Lead QA Engineer with over 18 years of experience driving end-to-end quality across web, mobile, and API platforms. Skilled in building scalable automation frameworks from the ground up, managing CI/CD pipelines, and overseeing efficient, reliable release processes. Adept at collaborating across engineering and product teams, improving test strategy, infrastructure, and tooling. Experienced in mentoring engineers and supporting quality throughout fast-moving development cycles.  
+Motivated to embed quality as a foundational part of engineering culture—championing testing best practices, cross-functional alignment, and thoughtful tooling adoption.
 
 ## **Work Experience**
 
 ### **Croissant**  
 **_Lead Quality Engineer – Founding Member (June 2022 – Present)_**  
 
-- Solely responsible for testing web and mobile applications, retailer website integrations, a Chrome extension, and various other components.
-- Designed and implemented a web automation framework using TypeScript, Playwright, and Applitools.
-- Migrated from VSCode to Windsurf, leading a full refactor of Playwright test suites across the web and Chrome extension frameworks for enhanced modularity and agentic orchestration.
-- Developed a mobile automation framework using Waldo.
-- Built live retailer site monitoring solutions leveraging TypeScript, Playwright, and AWS Lambda.
-- Conducted a deep dive into company-wide adoption of agentic AI tools; evaluated functionality and pricing across Cline, Cursor, Windsurf, GitHub Copilot, 16x, Repomix, and proprietary libraries to inform cross-team workflows and procurement decisions.
-- Managed QA GitHub Actions workflows, AWS CDK stacks, and a Retool app to support API testing and real-time site uptime monitoring.
-- Negotiated contracts for third-party testing tools, including Applitools and Waldo.
-- Led project management improvements, transitioning the company from JIRA to Linear for streamlined cross-functional collaboration. Developed best practices and provided company-wide onboarding and training.
-- Recruited, trained, and supervised multiple interns for both summer and ongoing programs.
+- Solely responsible for end-to-end testing of web and mobile applications, retailer site integrations, a Chrome extension, and other core platform components.  
+- Designed and implemented a robust web automation framework using TypeScript, Playwright, and Applitools.  
+- Led the migration from VSCode to Windsurf, fully refactoring Playwright test suites for both web and Chrome extension frameworks to improve modularity and agentic orchestration.  
+- Built a mobile automation framework with Waldo, enabling scalable, no-code UI testing for mobile products.  
+- Developed live retailer site monitoring tools using TypeScript, Playwright, and AWS Lambda for proactive issue detection.  
+- Conducted in-depth evaluations of agentic AI tools—including Cline, Cursor, Windsurf, GitHub Copilot, 16x, Repomix, and internal libraries.  
+- Maintained QA infrastructure, including GitHub Actions workflows, AWS CDK stacks, and a Retool app for API testing and uptime monitoring.  
+- Negotiated contracts and licensing for third-party tools such as Applitools and Waldo, reducing costs while maintaining tool efficacy.  
+- Spearheaded project management improvements by transitioning the company from JIRA to Linear. Authored best practices and conducted organization-wide onboarding and training.  
+- Recruited, trained, and mentored multiple QA interns across summer and long-term programs.
 
 ### **PayPal**  
 **_Senior Software Test Engineer (June 2016 – June 2022)_**  
@@ -82,11 +82,12 @@ Lead QA Engineer with almost 2 decades of experience leading end-to-end quality 
 ## **Technical Experience**  
 
 ### **Tools**  
-GitHub, Bitbucket, Linear, Trello, VersionOne, Rally, JIRA, Linear, BrowserStack, SauceLabs, Postman, Jenkins, TeamCity, Bamboo, Anthill Pro, Octopus Deploy, Fiddler, Charles, Firebug, Applitools, Retool, Waldo, PerfAgents, Windsurf, Cline, Cursor, GitHub Copilot, 16x, Repomix  
+GitHub, Bitbucket, Linear, Trello, VersionOne, Rally, JIRA, BrowserStack, SauceLabs, Postman, Jenkins, TeamCity, Bamboo, Anthill Pro, Octopus Deploy, Fiddler, Charles, Firebug, Applitools, Retool, Waldo, PerfAgents, Windsurf, Cline, Cursor, GitHub Copilot, 16x, Repomix  
 
 ### **Technologies**  
 Python, TypeScript, JavaScript, NodeJS, Mocha, Jest, Nightwatch, Playwright, Selenium WebDriver, C#, NUnit, MSSQL, MySQL, PostgreSQL, PowerShell, AWS (CDK, Lambda), Azure, Google Cloud (Compute Engine, Cloud SQL, App Engine), Datadog, Grafana, InSpec, Chef, Sparkle Formation, Google Analytics, AirTable, Salesforce/Workbench
 
 ## **Education**  
 **B.S. Business Management** – *West Chester University of Pennsylvania (2009)*  
+
 
