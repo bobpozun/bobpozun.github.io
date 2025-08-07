@@ -56,7 +56,7 @@ Motivated to embed quality as a foundational part of engineering culture—champ
 - Led team training, set goals, ran one-on-ones, and facilitated biweekly QA reviews and daily standups.  
 
 **Software QA Analyst (July 2011 – Sept 2013)**  
-- Owned all test and release operations as part of an agile team.  
+- Managed all test and release operations as part of an agile team.  
 - Collaborated on product design to ensure testability of legacy ad creation and serving features.  
 - Built and integrated several automation frameworks into TeamCity, including:  
   - A NodeJS-based web UI framework using Selenium and Mocha (later migrated to Nightwatch.js).  
@@ -87,6 +87,7 @@ Python, TypeScript, JavaScript, NodeJS, Mocha, Jest, Nightwatch, Playwright, Sel
 
 ## **Education**  
 **B.S. Business Management** – *West Chester University of Pennsylvania (2009)*  
+
 
 
 
