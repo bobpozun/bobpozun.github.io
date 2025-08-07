@@ -46,24 +46,22 @@ Motivated to embed quality as a foundational part of engineering culture—champ
 - Developed Nagios monitoring scripts to enhance IT oversight of web services.  
 
 ### **Pointroll**  
-**_Senior Infrastructure Test Lead (Sept 2013 – June 2015)_**  
 
-- Developed a Python-based test automation framework integrated with TeamCity, including:  
-  - An end-to-end production ETL automation suite with email alerts.  
-  - Automated validation for ad-serving and asset-serving functionality using Selenium.  
-  - A comprehensive ad-serving validation suite, reducing test execution time from a full day to just 30 minutes.  
-- Mentored team members in Python, SiestaJS (offshore), Selenium WebDriver, and Postman.  
-- Led training sessions, set team goals, and conducted one-on-one coaching.  
-- Organized and facilitated biweekly QA meetings and daily standups to review release testing progress.  
+**Senior Infrastructure Test Lead (Sept 2013 – June 2015)**  
+- Designed and built a Python-based automation framework integrated with TeamCity, including:  
+  - An end-to-end production ETL validation suite with alerting.  
+  - Automated tests for ad-serving and asset-serving functionality using Selenium.  
+  - A high-coverage ad-serving validation suite that reduced test execution from a full day to 30 minutes.  
+- Mentored team members (onshore and offshore) in Python, SiestaJS, Selenium WebDriver, and Postman.  
+- Led team training, set goals, ran one-on-ones, and facilitated biweekly QA reviews and daily standups.  
 
-**_Software QA Analyst (July 2011 – Sept 2013)_**  
-
-- Managed all test and release lifecycle operations as an agile team member.  
-- Participated in product design discussions to ensure effective implementation of features for legacy ad creation and ad-serving applications.  
-- Developed and integrated multiple automation frameworks into TeamCity, including:  
-  - A Web UI test automation framework using NodeJS, Selenium, and Mocha (later Nightwatch.js).  
-  - A Reporting API automation framework using Python.  
-  - A framework for MRC ad Viewability certification testing using Python and Selenium WebDriver.  
+**Software QA Analyst (July 2011 – Sept 2013)**  
+- Owned all test and release operations as part of an agile team.  
+- Collaborated on product design to ensure testability of legacy ad creation and serving features.  
+- Built and integrated several automation frameworks into TeamCity, including:  
+  - A NodeJS-based web UI framework using Selenium and Mocha (later migrated to Nightwatch.js).  
+  - A Python-based Reporting API test framework.  
+  - A Python/Selenium suite for MRC ad Viewability certification testing.
 
 ### **Rovi (DivXTV)**  
 **_Software QA Analyst (Nov 2009 – July 2011)_**  
@@ -89,5 +87,6 @@ Python, TypeScript, JavaScript, NodeJS, Mocha, Jest, Nightwatch, Playwright, Sel
 
 ## **Education**  
 **B.S. Business Management** – *West Chester University of Pennsylvania (2009)*  
+
 
 
