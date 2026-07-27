@@ -41,35 +41,25 @@ Lead Quality Engineer with 18+ years driving quality across web, mobile, and API
 ***Senior Software Test Engineer (Sept 2015 – May 2016)***
 
 - **Automation Framework:** Built comprehensive framework using Jenkins, Python, Selenium, and BrowserStack for cross-browser testing
-- **Data Validation:** Verified reporting data integrity in Google Cloud SQL databases
-- **DevOps:** Participated in Google Dev Stack deployment rotations ensuring reliable releases
+- **Data & Deployment:** Verified reporting data integrity in Google Cloud SQL and participated in Google Dev Stack deployment rotations ensuring reliable releases
 - **Collaboration:** Led Dev/Client Support relations using AirTable for issue tracking and resolution
 - **Tools & Tech:** Python, Selenium, BrowserStack, Jenkins, Google Cloud SQL, AirTable
 
 ### **Comcast** *(Contract Role)*
 ***Senior Software Test Engineer (June 2015 – Sept 2015)***
 
-- **Framework Design:** Designed web service testing framework using Python and RobotFramework
-- **CI/CD Automation:** Configured Jenkins for automated smoke and regression testing. Streamlined processes with AntHill Pro
+- **Framework & CI/CD:** Designed a web service testing framework using Python and RobotFramework, configured Jenkins for automated smoke and regression testing, and streamlined deployment gating with AntHill Pro
 - **Monitoring:** Developed Nagios monitoring scripts for proactive system health checks
 - **Tools & Tech:** Python, RobotFramework, Jenkins, AntHill Pro, Nagios
 
 ### **Pointroll**
+***Software QA Analyst → Infrastructure Test Lead (July 2011 – June 2015)***
 
-**Senior Infrastructure Test Lead (Sept 2013 – June 2015)**
-
-- **Performance Optimization:** Built Python automation framework with TeamCity integration. Created a high-coverage ad-serving validation suite that reduced test execution from a full day to 30 minutes
-- **ETL Validation:** Created production ETL validation suite with automated alerting for data pipeline quality
-- **Ad-Serving Automation:** Automated ad-serving and asset-serving tests using Selenium for critical business workflows
-- **Mentorship:** Led training sessions on Python, SiestaJS, Selenium, and Postman. Conducted one-on-ones, QA reviews, and standups
-- **Tools & Tech:** Python, Selenium, TeamCity, SiestaJS, Postman
-
-**Software QA Analyst (July 2011 – Sept 2013)**
-
-- **Release Management:** Managed test and release operations in agile environment with continuous delivery
-- **Testability Engineering:** Collaborated on product design to build testability into features from inception
-- **Multi-Framework Development:** Built multiple automation frameworks including NodeJS/Selenium/Mocha for UI, Python Reporting API, and Python/Selenium for MRC certification
-- **Tools & Tech:** NodeJS, Mocha, Selenium, Python, TeamCity
+- **Performance & Release Management:** Managed test and release operations in a continuous-delivery agile environment, then built a Python/TeamCity automation framework including a high-coverage ad-serving validation suite that reduced test execution from a full day to 30 minutes
+- **Framework Development:** Built automation frameworks across the stack, including NodeJS/Selenium/Mocha for UI, a Python Reporting API suite, and Python/Selenium for MRC ad viewability certification
+- **ETL & Ad-Serving Automation:** Created a production ETL validation suite with automated alerting and automated ad-serving and asset-serving tests using Selenium for critical business workflows
+- **Mentorship & Testability:** Collaborated on product design to build testability into features from inception, and led training and mentorship for onshore and offshore team members in Python, SiestaJS, Selenium, and Postman
+- **Tools & Tech:** Python, NodeJS, Mocha, Selenium, TeamCity, SiestaJS, Postman
 
 ### **Rovi (DivXTV)**
 ***Software QA Analyst (Nov 2009 – July 2011)***
